@@ -1,0 +1,239 @@
+body{
+    
+    width: 1421px;
+    height: 4473px;
+    flex-shrink: 0;
+
+    border: 0px solid #000;
+    background: #486784;
+}
+
+li{
+    color: #FFF;
+font-family: Roboto;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+
+
+a{
+    color:#FFF
+}
+
+
+.suurtext{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+}
+.keskminetext{
+    color: #FFF;
+font-family: Roboto;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.vaiketext{
+    color: #FFF;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+header{
+display: flex;
+flex-direction: row;
+background-color: #1d8ef063;
+justify-content: space-between;
+padding: 20px;
+}
+
+.menu{
+list-style-type: none;
+margin-left: 600px;
+display:flex;
+gap: 25px;
+
+}
+.menu a{
+color: #eaeaea;
+display: block;
+padding: 5px 10px;
+text-decoration: none;
+
+}
+.text-section{
+display: flex;
+justify-content: space-between;
+align-items: flex-start;
+padding: 120px;
+
+}
+
+
+img{
+
+width: 200px;
+height: 300px;
+
+}
+
+.textsaction{
+background-color: #09216448;
+width: 95%;
+}
+
+
+
+.orderbutton{
+width: 523px;
+height: 106px;
+padding: 10px;
+border-radius: 50px;
+background: #467FED;
+color: #000;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.button-section{
+position: relative;
+right: 900px;
+top: 500px;
+
+}
+
+.pattern{
+position: relative;
+bottom: 200px;
+z-index: 0;
+}
+
+.mainimage{
+position: relative;
+z-index: 1;
+
+
+}
+
+
+.teinediv{
+display: flex;
+
+}
+
+.img2{
+    position: relative;
+    left: 100px;
+
+}
+
+.pattern2{
+    position: relative;
+    bottom: 100px;
+    left: 50px;
+}
+.text-section2{
+right: 50px;
+
+}
+
+.image-saction3{
+display: flex;
+flex-wrap: wrap;
+position: relative;
+left: 50px;
+}
+
+
+.suurtext3{
+
+position: relative;
+left: 600px;
+color: #FFF;
+font-family: Roboto;
+font-size: 64px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-transform: uppercase;
+
+}
+
+
+
+
+.img3{
+    width:33.3%;
+
+    box-sizing: border-box;
+
+
+
+}
+.suurtext4{
+    position: relative;
+    left: 600px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+    
+}
+.image-saction4{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    left: 50px;
+    }
+
+    .img4{
+        width:33.3%;
+        
+        box-sizing: border-box;
+        
+        }
+.vaiketext4{
+position: relative;
+left: 200px;
+font-family: Roboto;
+font-size: 30px;
+}   
+
+.vaiketext5{
+    position: relative;
+    left: 670px;
+    font-family: Roboto;
+    font-size: 30px;
+    top: -65px;
+    }      
+    
+    .vaiketext6{
+        position: relative;
+        left: 1155px;
+        font-family: Roboto;
+        font-size: 30px;
+        top: -130px;
+        }      
+        
+    
+.image-section{
+    width: 50%;
+}
